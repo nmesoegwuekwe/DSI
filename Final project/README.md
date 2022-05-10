@@ -20,7 +20,9 @@ The goal is to develop an optimal battery schedule and an optimal lecture schedu
 Description of folders:
 
 Forecast-Code: scripts related to forecasting and time series data
-Forecast-Data: raw and processed data for phase1 and phase2
+
+Forecast-Data: raw and processed data
+
 Forecast-Results: output of forecasting
 
 ### Next Steps
