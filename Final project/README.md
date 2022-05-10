@@ -9,20 +9,20 @@ One of the most important challenges to tackle climate change is the decarbonisa
 The goal is to develop an optimal battery schedule and an optimal lecture schedule, based on predictions of future values of energy demand and production. In particular, in this project, we have the following data available. Energy consumption data recorded every 15 minutes from 6 buildings on the Monash Clayton campus, up to September 2020. Solar production data, again with 15 minutes of granularity, from 6 rooftop solar installations from the Clayton campus, also up to September 2020. Furthermore, weather data is available from the Australian Bureau of Meteorology and electricity price data is available from the Australian Energy Market Operator. The goal is now to optimally schedule a battery and timetabled activities (lectures) for the month of October 2020.
 
 ### Forecast Performance 
-![Forecast Performance (Building demand)](https://github.com/gno-lit/DSI/blob/main/Final%20project/Forecast-Code/Building%201.png)
 #### Building Energy demand
-![Forecast Performance (Solar)](https://github.com/gno-lit/DSI/blob/main/Final%20project/Forecast-Code/Solar%201.png)
+![Forecast Performance (Building demand)](https://github.com/gno-lit/DSI/blob/main/Final%20project/Forecast-Code/Building%201.png)
 #### Solar
+![Forecast Performance (Solar)](https://github.com/gno-lit/DSI/blob/main/Final%20project/Forecast-Code/Solar%201.png)
 
-*Dependencies*: see requirements.txt
 
 ## Documentation
 
 Description of folders:
-```
-*Forecasting component*
 
 Forecast-Code: scripts related to forecasting and time series data
 Forecast-Data: raw and processed data for phase1 and phase2
 Forecast-Results: output of forecasting
+
+### Next Steps
+
 
